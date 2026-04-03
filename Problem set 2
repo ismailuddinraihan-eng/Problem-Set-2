@@ -1,0 +1,27 @@
+# 🏦 Bank Marketing Prediction using Logistic Regression
+
+## 📌 Overview
+Predict whether a customer will subscribe to a term deposit.
+
+## 📊 Dataset Features
+- Age
+- Job
+- Marital Status
+- Balance
+- Loan Status
+- etc.
+
+## ⚙️ Methodology
+1. Data Cleaning
+2. Label Encoding
+3. Train-Test Split
+4. Logistic Regression Model
+
+## 📈 Results
+- Accuracy: ~80% (approx)
+- Confusion Matrix used for evaluation
+
+## 🚀 Future Improvements
+- Feature Scaling
+- Use Random Forest / XGBoost
+- Handle class imbalance
